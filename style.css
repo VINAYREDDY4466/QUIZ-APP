@@ -16,7 +16,7 @@ video{
 }
 .app{
     background-color: #fff;
-    margin: 100px  0;
+    margin: 100px auto 0;
     padding: 30px;
     width: 90%;
     max-width: 600px;
