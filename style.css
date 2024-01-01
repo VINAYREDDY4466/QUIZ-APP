@@ -3,11 +3,10 @@
     padding: 0;
     font-family: "poppins", sans-serif;
     box-sizing: border-box;
-      background-image: url("5155405.jpg");
+    background-image: url("5155405.jpg");
 }
 body{
-    background-color:hsla(0, 100%, 50%, 0.3);;
-    background-image: url("5155405.jpg");
+    background-color:lightblue;
     background-position-x: 10%;
     background-repeat: no-repeat;
     background-size: 1800px 1000px;
