@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color:#8458B3;
+    background-color:hsla(0, 100%, 50%, 0.3);;
     background-image: url(./video and images/5155405.jpg);
     background-position-x: 10%;
     background-repeat: no-repeat;
@@ -16,7 +16,7 @@ video{
 }
 .app{
     background-color: #fff;
-    margin: 100px  0;
+    margin: 100px auto 0;
     padding: 30px;
     width: 90%;
     max-width: 600px;
