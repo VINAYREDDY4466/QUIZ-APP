@@ -1,9 +1,4 @@
-*{
-    margin: 0;
-    padding: 0;
-    font-family: "poppins", sans-serif;
-    box-sizing: border-box;
-}
+
 body{
     background-color:hsla(0, 100%, 50%, 0.3);;
     background-image: url(./video and images/5155405.jpg);
