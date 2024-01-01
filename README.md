@@ -7,7 +7,7 @@ The Quiz App is an interactive web application designed to engage users with a c
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Quiz App</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="icon" type="image/x-icon" href="/409163.jpg">
+    <link rel="icon" type="image/x-icon" href="/5155405.JPG">
 </head>
 <body>
     <p style="background-image: url('5155405.jpg');">
