@@ -3,7 +3,7 @@
     padding: 0;
     font-family: "poppins", sans-serif;
     box-sizing: border-box;
-     background-image: url("5155405.jpg");
+     background-image: url("");
    
 }
 body{
@@ -17,6 +17,7 @@ video{
 }
 .app{
     background-color: #fff;
+    aligns-items:center;
     margin:  auto 0;
     padding: 30px;
     width: 90%;
